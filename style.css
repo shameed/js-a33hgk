@@ -1,0 +1,11 @@
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+
+body {
+  color: red;
+}
+
+h1,
+h2 {
+  font-family: Lato;
+  color: black;
+}
